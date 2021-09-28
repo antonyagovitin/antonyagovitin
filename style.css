@@ -255,6 +255,7 @@ header.fixed #logo {
   border-top: 2px solid silver;
   color: #484848;
   font-size: 1.3em;
+  margin-left: 10%;
 }
 
 h1, h2, h3, h4, h5 {
